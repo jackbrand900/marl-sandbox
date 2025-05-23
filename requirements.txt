@@ -1,0 +1,4 @@
+pettingzoo
+supersuit
+stable-baselines3
+torch
