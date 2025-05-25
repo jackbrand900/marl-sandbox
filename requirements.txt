@@ -1,5 +1,4 @@
-pettingzoo
-supersuit
-stable-baselines3
+pettingzoo[classic]
 torch
 numpy
+matplotlib
